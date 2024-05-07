@@ -1,0 +1,33 @@
+/* estilos.css */
+body {
+    font-family: "Platypi", serif;
+    margin: 0;
+    padding: 0;
+    background-color: #2d0000;
+    color: #3a3000;
+    text-aling: center;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+header, nav, section, footer {
+    padding: 20px;
+    background-color: #f2abab;
+    margin-bottom: 20px;
+    text-aling: center;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #f2abab;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
